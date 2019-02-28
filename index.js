@@ -14,5 +14,5 @@ const facts= ["He was the last Beatle to learn to drive",
   "He hated the sound of his own voice"];
   
 function johnLennonFacts (facts) {
-  
+  while 
 }
